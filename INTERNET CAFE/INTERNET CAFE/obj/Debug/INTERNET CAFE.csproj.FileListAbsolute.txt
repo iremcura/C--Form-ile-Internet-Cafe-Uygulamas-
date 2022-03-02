@@ -1,0 +1,20 @@
+C:\Users\ireem\source\repos\INTERNET CAFE\INTERNET CAFE\bin\Debug\INTERNET CAFE.exe.config
+C:\Users\ireem\source\repos\INTERNET CAFE\INTERNET CAFE\bin\Debug\INTERNET CAFE.exe
+C:\Users\ireem\source\repos\INTERNET CAFE\INTERNET CAFE\bin\Debug\INTERNET CAFE.pdb
+C:\Users\ireem\source\repos\INTERNET CAFE\INTERNET CAFE\obj\Debug\INTERNET CAFE.csproj.AssemblyReference.cache
+C:\Users\ireem\source\repos\INTERNET CAFE\INTERNET CAFE\obj\Debug\INTERNET_CAFE.Form1.resources
+C:\Users\ireem\source\repos\INTERNET CAFE\INTERNET CAFE\obj\Debug\INTERNET_CAFE.Properties.Resources.resources
+C:\Users\ireem\source\repos\INTERNET CAFE\INTERNET CAFE\obj\Debug\INTERNET CAFE.csproj.GenerateResource.cache
+C:\Users\ireem\source\repos\INTERNET CAFE\INTERNET CAFE\obj\Debug\INTERNET CAFE.csproj.CoreCompileInputs.cache
+C:\Users\ireem\source\repos\INTERNET CAFE\INTERNET CAFE\obj\Debug\INTERNET CAFE.exe
+C:\Users\ireem\source\repos\INTERNET CAFE\INTERNET CAFE\obj\Debug\INTERNET CAFE.pdb
+C:\Users\ireem\OneDrive\Masaüstü\INTERNET CAFE\INTERNET CAFE\bin\Debug\INTERNET CAFE.exe.config
+C:\Users\ireem\OneDrive\Masaüstü\INTERNET CAFE\INTERNET CAFE\bin\Debug\INTERNET CAFE.exe
+C:\Users\ireem\OneDrive\Masaüstü\INTERNET CAFE\INTERNET CAFE\bin\Debug\INTERNET CAFE.pdb
+C:\Users\ireem\OneDrive\Masaüstü\INTERNET CAFE\INTERNET CAFE\obj\Debug\INTERNET CAFE.csproj.AssemblyReference.cache
+C:\Users\ireem\OneDrive\Masaüstü\INTERNET CAFE\INTERNET CAFE\obj\Debug\INTERNET_CAFE.Form1.resources
+C:\Users\ireem\OneDrive\Masaüstü\INTERNET CAFE\INTERNET CAFE\obj\Debug\INTERNET_CAFE.Properties.Resources.resources
+C:\Users\ireem\OneDrive\Masaüstü\INTERNET CAFE\INTERNET CAFE\obj\Debug\INTERNET CAFE.csproj.GenerateResource.cache
+C:\Users\ireem\OneDrive\Masaüstü\INTERNET CAFE\INTERNET CAFE\obj\Debug\INTERNET CAFE.csproj.CoreCompileInputs.cache
+C:\Users\ireem\OneDrive\Masaüstü\INTERNET CAFE\INTERNET CAFE\obj\Debug\INTERNET CAFE.exe
+C:\Users\ireem\OneDrive\Masaüstü\INTERNET CAFE\INTERNET CAFE\obj\Debug\INTERNET CAFE.pdb
